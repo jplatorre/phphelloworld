@@ -1,3 +1,3 @@
-FROM stefanthorpe/ubuntu-nginx-php7
+FROM caylent/ubuntu-nginx-php7
 
 ADD * ${NGINX_HOME}/
