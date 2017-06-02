@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Staging Branch</title>
  </head>
  <body>
- <?php echo '<p>Hello World - this is a new staging app - NEW BUILD!</p>'; ?> 
+ <?php echo '<p>Hello World - this is a staging app!</p>'; ?> 
  </body>
 </html>
