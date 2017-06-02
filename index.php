@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Prod Branch</title>
  </head>
  <body>
- <?php echo '<p>Hello World - this is a new production app - NEW PROD BUILD!</p>'; ?> 
+ <?php echo '<p>Hello World - this is a prod app!</p>'; ?> 
  </body>
 </html>
